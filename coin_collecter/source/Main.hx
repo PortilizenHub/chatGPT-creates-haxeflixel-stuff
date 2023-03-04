@@ -2,9 +2,9 @@ package;
 
 import flixel.FlxG;
 import flixel.FlxGame;
-import flixel.FlxGroup;
 import flixel.FlxSprite;
 import flixel.FlxState;
+import flixel.group.FlxGroup;
 import flixel.math.FlxRandom;
 import flixel.text.FlxText;
 
