@@ -4,8 +4,9 @@ import flixel.FlxG;
 import flixel.FlxGame;
 import flixel.FlxGroup;
 import flixel.FlxSprite;
-import flixel.FlxText;
+import flixel.FlxState;
 import flixel.math.FlxRandom;
+import flixel.text.FlxText;
 
 class Main extends FlxGame
 {
